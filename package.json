@@ -1,17 +1,12 @@
 {
-  "name": "date-fns",
+  "name": "@2gis/date-fns",
   "version": "4.1.0",
   "contributors": [
-    "Sasha Koss <koss@nocorp.me>",
-    "Lesha Koss <regiusprod@gmail.com>"
+    "Elena Tsivinskaya <elts77@gmail.com>"
   ],
   "license": "MIT",
   "description": "Modern JavaScript date utility library",
-  "repository": "https://github.com/date-fns/date-fns",
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/kossnocorp"
-  },
+  "repository": "https://github.com/ElenaTsivinskaya/date-fns",
   "sideEffects": false,
   "browser": "./index",
   "type": "module",
